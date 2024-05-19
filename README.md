@@ -3,10 +3,10 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [Overview](#Overview)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Acknowledgements](#Contributors)
 
 ## Overview
 The objective of this project is with the help of Loan data set identify factors/ variables responsible for credit loss i.e. probable causes of loan defaults.
@@ -17,10 +17,6 @@ The project uses EDA techniques to analyse data and derive the conclusion as fol
 4. Conclusion
 
 
-## Conclusions
-- 
-
-
 ## Technologies Used
 - Python - v3.11.5
 - Python Libraries
@@ -29,8 +25,10 @@ The project uses EDA techniques to analyse data and derive the conclusion as fol
   - plotly - v5.22.0
   - matplotlib - v3.9.0
   - seaborn - v0.13.2
-
 - Jupyter Notebook - v7.2.0
+
+## Conclusions
+- 
 
 ## Contributors
 Sonal Jatav [@sonal-jatav]
