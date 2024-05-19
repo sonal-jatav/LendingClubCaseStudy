@@ -1,5 +1,7 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> View file: https://nbviewer.org/github/sonal-jatav/LendingClubCaseStudy/blob/main/Sonal_Jatav_Lending_club_case_study.ipynb
+
+The project is intended to derive variables that have a role in identifying factors that prevail in loan defaulter's data
 
 
 ## Table of Contents
@@ -7,6 +9,8 @@
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#Contributors)
+
+****
 
 ## Overview
 The objective of this project is with the help of Loan data set identify factors/ variables responsible for credit loss i.e. probable causes of loan defaults.
